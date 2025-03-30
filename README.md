@@ -1,6 +1,7 @@
 # **Unilever Using Data Analytics in Supply Chain Course at Coursera**
 
 By    : Muhammad Fatih Idlan (faiti.alfaqar@gmail.com)
+
 This project fulfills the Module 5 assignment (Prosacco activity presentation) for Unilever's Using Data Analytics in Supply Chain course on Coursera.
 
 ## Report Outline
