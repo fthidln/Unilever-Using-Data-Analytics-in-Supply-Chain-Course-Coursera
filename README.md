@@ -20,3 +20,17 @@ As we know, according to the dataset, there are several customer complaint about
 * Determine the most affected customer
 * Determine the root cause of delayed distribution
 * Planning further strategy
+
+## Affected Customer Pareto Analysis
+![Affected Customer](Assets/AffectedCustomer.png)
+
+## Historical SKUs Inventory Analysis
+![Historical SKUs Inventory Analysis](Assets/HistoricalInventory.png)
+* Final inventory on week 41 & 42 are at negative level
+* At the same week, there are sudden spike of uncovered demand due to increasing demand at week 41 and production pause from week 39 to 41
+
+## Key Takeaways
+* **Customer 1 & 2** contribute to **95%** sales of delayed distribution
+* The causing issues are **increasing demand** at week 41 & **production pause** on week 39-41
+* **Re-design** production **planning** to tackle delayed production
+* Integrating production schedule with demand forecasting to **enhance** production **accuracy**
