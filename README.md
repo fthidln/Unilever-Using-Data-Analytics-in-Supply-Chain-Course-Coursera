@@ -7,15 +7,15 @@ This project fulfills the Module 5 assignment (Prosacco activity presentation) f
 :warning: **The [dataset](Dataset.xlsx) used in this project is sourced from a fictitious company (which provided by this course) and was created for educational purposes to demonstrate my data analysis skills related to supply chain activity.**
 
 ## :pushpin: Report Outline
-- [Introduction](#ticket-introduction)
-  - [Problem Statement](#-problem-statement)
-  - [Objectives](#-objectives)
-- [Analysis](#-analysis)
-  - [Affected Customer Pareto Analysis](#-affected-customer-pareto-analysis)
-  - [Historical SKUs Inventory Analysis](#-historical-skus-inventory-analysis)
-- [Key Takeaways](#-key-takeaways)
+- [Introduction](#loudspeaker-introduction)
+  - [Problem Statement](#construction-problem-statement)
+  - [Objectives](#dart-objectives)
+- [Analysis](#clipboard-analysis)
+  - [Affected Customer Pareto Analysis](#bar-chart-affected-customer-pareto-analysis)
+  - [Historical SKUs Inventory Analysis](#calendar-historical-skus-inventory-analysis)
+- [Key Takeaways](#key-key-takeaways)
 
-## :ticket: Introduction
+## :loudspeaker: Introduction
 ### :construction: Problem Statement
 As we know, according to the dataset, there are several customer complaint about delayed distribution on these country:
 * Canada
