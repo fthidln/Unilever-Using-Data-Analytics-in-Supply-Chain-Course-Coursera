@@ -1,4 +1,4 @@
-# **Unilever Using Data Analytics in Supply Chain Course at Coursera** :articulated_lorry: :package:
+# **Unilever Using Data Analytics in Supply Chain Course at Coursera** :articulated_lorry::package:
 
 By    : Muhammad Fatih Idlan (faiti.alfaqar@gmail.com) :shipit:
 
