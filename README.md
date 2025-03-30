@@ -11,7 +11,7 @@ This project fulfills the Module 5 assignment (Prosacco activity presentation) f
   - [Problem Statement](#construction-problem-statement)
   - [Objectives](#dart-objectives)
 - [Analysis](#clipboard-analysis)
-  - [Affected Customer Pareto Analysis](#bar-chart-affected-customer-pareto-analysis)
+  - [Affected Customer Pareto Analysis](#bar_chart-affected-customer-pareto-analysis)
   - [Historical SKUs Inventory Analysis](#calendar-historical-skus-inventory-analysis)
 - [Key Takeaways](#key-key-takeaways)
 
