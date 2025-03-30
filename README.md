@@ -22,7 +22,7 @@ As we know, according to the dataset, there are several customer complaint about
 * Planning further strategy
 
 ## Affected Customer Pareto Analysis
-![Affected Customer](Assets/AffectedCustomer.png)
+![Affected Customer](Assets/AffectedCustomer.png)`#ffffff`
 
 ## Historical SKUs Inventory Analysis
 ![Historical SKUs Inventory Analysis](Assets/HistoricalInventory.png)
