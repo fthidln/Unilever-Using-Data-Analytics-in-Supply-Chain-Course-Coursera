@@ -7,7 +7,7 @@ This project fulfills the Module 5 assignment (Prosacco activity presentation) f
 :warning: **The [dataset](Dataset.xlsx) used in this project is sourced from a fictitious company (which provided by this course) and was created for educational purposes to demonstrate my data analysis skills related to supply chain activity.**
 
 ## :pushpin: Report Outline
-- [Introduction](#-introduction)
+- [Introduction](#ticket-introduction)
   - [Problem Statement](#-problem-statement)
   - [Objectives](#-objectives)
 - [Analysis](#-analysis)
