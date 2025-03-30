@@ -7,13 +7,13 @@ This project fulfills the Module 5 assignment (Prosacco activity presentation) f
 :warning: **The [dataset](Dataset.xlsx) used in this project is sourced from a fictitious company (which provided by this course) and was created for educational purposes to demonstrate my data analysis skills related to supply chain activity.**
 
 ## :pushpin: Report Outline
-- [Introduction](#introduction)
-  - [Problem Statement](#problem-statement)
-  - [Objectives](#objectives)
-- [Analysis](#analysis)
-  - [Affected Customer Pareto Analysis](#affected-customer-pareto-analysis)
-  - [Historical SKUs Inventory Analysis](#historical-skus-inventory-analysis)
-- [Key Takeaways](#key-takeaways)
+- [Introduction](#-introduction)
+  - [Problem Statement](#-problem-statement)
+  - [Objectives](#-objectives)
+- [Analysis](#-analysis)
+  - [Affected Customer Pareto Analysis](#-affected-customer-pareto-analysis)
+  - [Historical SKUs Inventory Analysis](#-historical-skus-inventory-analysis)
+- [Key Takeaways](#-key-takeaways)
 
 ## :ticket: Introduction
 ### :construction: Problem Statement
@@ -22,7 +22,7 @@ As we know, according to the dataset, there are several customer complaint about
 * United States
 * Mexico
 
-### :compass: Objectives
+### :dart: Objectives
 * Determine the most affected customer
 * Determine the root cause of delayed distribution
 * Planning further strategy
