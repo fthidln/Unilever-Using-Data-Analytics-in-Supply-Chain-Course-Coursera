@@ -2,7 +2,11 @@
 
 By    : Muhammad Fatih Idlan (faiti.alfaqar@gmail.com)
 
-This project fulfills the Module 5 assignment (Prosacco activity presentation) for Unilever's Using Data Analytics in Supply Chain course on Coursera.
+This project fulfills the Module 5 assignment (Prosacco activity presentation) for Unilever's Using Data Analytics in Supply Chain course on [Coursera](https://www.coursera.org/programs/industry-professional-credentials-track-blqcg/learn/using-data-analytics-in-supply-chain).
+
+**! Important**
+
+**The [dataset](Dataset.xlsx) used in this project is sourced from a fictitious company and was created for educational purposes to demonstrate my data analysis skills related to supply chain activity**
 
 ## Report Outline
 - [Introduction](#introduction)
