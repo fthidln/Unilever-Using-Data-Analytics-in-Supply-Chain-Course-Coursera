@@ -32,7 +32,7 @@ As we know, according to the dataset, there are several customer complaint about
 ![Affected Customer](Assets/AffectedCustomer.png)
 As we can see, Customer 1 and 2 are the major affected customer during this issue. Both of them contributed around 95% of total uncovered sales.
 
-### Historical SKUs Inventory Analysis
+### :calendar: Historical SKUs Inventory Analysis
 ![Historical SKUs Inventory Analysis](Assets/HistoricalInventory.png)
 
 * Final inventory on week 41 & 42 are at negative level
