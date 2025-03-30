@@ -22,10 +22,12 @@ As we know, according to the dataset, there are several customer complaint about
 * Planning further strategy
 
 ## Affected Customer Pareto Analysis
-![Affected Customer](Assets/AffectedCustomer.png)`#ffffff`
+![Affected Customer](Assets/AffectedCustomer.png)
+`#ffffff`
 
 ## Historical SKUs Inventory Analysis
 ![Historical SKUs Inventory Analysis](Assets/HistoricalInventory.png)
+`#000000`
 * Final inventory on week 41 & 42 are at negative level
 * At the same week, there are sudden spike of uncovered demand due to increasing demand at week 41 and production pause from week 39 to 41
 
