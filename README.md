@@ -4,28 +4,32 @@ By    : Muhammad Fatih Idlan (faiti.alfaqar@gmail.com)
 This project fulfills the Module 5 assignment (Prosacco activity presentation) for Unilever's Using Data Analytics in Supply Chain course on Coursera.
 
 ## Report Outline
-* [Problem Statement](##problem-statement)
-* [Objectives](##objectives)
-* [Affected Customer Pareto Analysis](##affected-customer-pareto-analysis)
-* [Historical SKUs Inventory Analysis](##historical-skus-inventory-analysis)
-* [Key Takeaways](##key-takeaways)
+- [Introduction](##introduction)
+  - [Problem Statement](###problem-statement)
+  - [Objectives](###objectives)
+- [Analysis](##analysis)
+  - [Affected Customer Pareto Analysis](###affected-customer-pareto-analysis)
+  - [Historical SKUs Inventory Analysis](###historical-skus-inventory-analysis)
+- [Key Takeaways](##key-takeaways)
 
-## Problem Statement
+## Introduction
+### Problem Statement
 As we know, according to the dataset, there are several customer complaint about delayed distribution on these country:
 * Canada
 * United States
 * Mexico
 
-## Objectives
+### Objectives
 * Determine the most affected customer
 * Determine the root cause of delayed distribution
 * Planning further strategy
 
-## Affected Customer Pareto Analysis
+## Analysis
+### Affected Customer Pareto Analysis
 ![Affected Customer](Assets/AffectedCustomer.png)
 As we can see, Customer 1 and 2 are the major affected customer during this issue. Both of them contributed around 95% of total uncovered sales.
 
-## Historical SKUs Inventory Analysis
+### Historical SKUs Inventory Analysis
 ![Historical SKUs Inventory Analysis](Assets/HistoricalInventory.png)
 
 * Final inventory on week 41 & 42 are at negative level
