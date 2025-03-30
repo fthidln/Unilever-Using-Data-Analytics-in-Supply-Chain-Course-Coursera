@@ -4,12 +4,12 @@ By    : Muhammad Fatih Idlan (faiti.alfaqar@gmail.com)
 This project fulfills the Module 5 assignment (Prosacco activity presentation) for Unilever's Using Data Analytics in Supply Chain course on Coursera.
 
 ## Report Outline
-- [Introduction](##introduction)
-  - [Problem Statement](###problem-statement)
-  - [Objectives](###objectives)
-- [Analysis](##analysis)
-  - [Affected Customer Pareto Analysis](###affected-customer-pareto-analysis)
-  - [Historical SKUs Inventory Analysis](###historical-skus-inventory-analysis)
+- [Introduction](#introduction)
+  - [Problem Statement](#problem-statement)
+  - [Objectives](#objectives)
+- [Analysis](#analysis)
+  - [Affected Customer Pareto Analysis](#affected-customer-pareto-analysis)
+  - [Historical SKUs Inventory Analysis](#historical-skus-inventory-analysis)
 - [Key Takeaways](#key-takeaways)
 
 ## Introduction
