@@ -23,7 +23,7 @@ As we know, according to the dataset, there are several customer complaint about
 
 ## Affected Customer Pareto Analysis
 ![Affected Customer](Assets/AffectedCustomer.png)
-As we can see, customer 1 and 2 are the major affected customer during this issue. Both of them contributed around 95% of total uncovered sales.
+As we can see, Customer 1 and 2 are the major affected customer during this issue. Both of them contributed around 95% of total uncovered sales.
 
 ## Historical SKUs Inventory Analysis
 ![Historical SKUs Inventory Analysis](Assets/HistoricalInventory.png)
